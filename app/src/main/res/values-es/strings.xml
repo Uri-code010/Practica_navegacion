@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Práctica</string>
+    <string name="materia">Desarrollo de Apps Móviles</string>
+    <string name="nombre">Uriel</string>
+    <string name="apellido">Laguna</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Barra Inferior</string>
+    <string name="home_fab_text">Agregar</string>
+    <string name="options_menu">Opciones</string>
+    <string name="profile">Perfil</string>
+    <string name="config">Configuración</string>
+    <string name="logout">Cerrar sesión</string>
+</resources>

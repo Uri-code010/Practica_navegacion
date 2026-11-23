@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Πρακτική</string>
+    <string name="materia">Ανάπτυξη φορητών εφαρμογών</string>
+    <string name="nombre">Ουριέλ</string>
+    <string name="apellido">Λαγούνα</string>
+    <string name="home_screen">Αρχική</string>
+    <string name="back_btn_desc">Πίσω</string>
+    <string name="bottom_app_bar">Κάτω μπάρα</string>
+    <string name="home_fab_text">Προσθήκη</string>
+    <string name="options_menu">Επιλογές</string>
+    <string name="profile">Προφίλ</string>
+    <string name="config">Ρυθμίσεις</string>
+    <string name="logout">Αποσύνδεση</string>
+</resources>
